@@ -1,11 +1,9 @@
 {
   "name": "@npm-test-aksshayy/npm-test-private",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test Private",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "private": true,
   "keywords": [
     "npm",
     "private",
