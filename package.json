@@ -1,0 +1,17 @@
+{
+  "name": "@npm-test-aksshayy/npm-test-private",
+  "version": "1.0.0",
+  "description": "Test Private",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "private",
+    "common",
+    "module"
+  ],
+  "author": "Akshay Shrivastava",
+  "license": "ISC"
+}
